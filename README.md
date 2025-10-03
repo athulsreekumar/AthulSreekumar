@@ -53,9 +53,9 @@
 ## ✨ Fun Facts  
 
 - 🥷 I treat CI/CD pipelines like art 🎨  
-- 🌌 Big fan of **space tech 🚀 and football ⚽**  
+- 🌌 Big fan of **Books 📚, tech 🚀 and football ⚽**  
 - 🔭 Currently exploring **GCP vs Azure trade-offs**  
-- 📚 Always learning (recently: **Atomic Habits + The Alchemist**)  
+- 📚 Always Reading (recently: **Animal Farm + Metamorphosis**)  
 
 ---
 
