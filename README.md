@@ -21,13 +21,10 @@
 ☁️ Azure | 🐳 Docker | 🎛️ Kubernetes | 🏗️ Terraform | 🔑 Key Vaults | 📊 Application Insights |  📦 ACR
 
 **CI/CD & Automation:**  
-🤖 GitHub Actions | 🌀 Azure DevOps Pipelines | 🛠️ Helm | 🔒 Secret Management  
+🤖 GitHub Actions | 🌀 Azure DevOps Pipelines | 🔒 Secret Management  
 
 **Fullstack Development:**  
 ⚛️ React | 🔥 Next.js | 🟢 Node.js | 🐘 PostgreSQL | 🐍 Python | 📱 React Native  
-
-**Other Tools I Love:**  
-📝 Markdown | 🔍 Grafana | 📡 Prometheus | 🧑‍💻 Git | 🐙 GitHub | 💻 VS Code  
 
 ---
 
@@ -43,9 +40,9 @@
 ## 🏆 Badges & Highlights  
 
 - 💼 **Azure Cloud Professional**  
-- ⚡ Built **scalable microservices** powering production mobile apps  
+- ⚡ Built and deployed **scalable microservices** powering production mobile apps  
 - 🔐 Designed **secure, automated secret management** across infra, CI/CD, and containerized apps  
-- 📱 Automated **iOS & Android app deployments** via pipelines  
+- 📱 Automated **iOS & Android app deployments** via GitHub Action pipelines  
 - 🌍 Open to **collaborations** and exciting cloud-native projects  
 
 ---
@@ -54,7 +51,6 @@
 
 - 🥷 I treat CI/CD pipelines like art 🎨  
 - 🌌 Big fan of **Books 📚, tech 🚀 and football ⚽**  
-- 🔭 Currently exploring **GCP vs Azure trade-offs**  
 - 📚 Always Reading (recently: **Animal Farm + Metamorphosis**)  
 
 ---
