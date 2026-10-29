@@ -108,6 +108,38 @@ flowchart LR
 
 <br/>
 
+## ◆ Open source
+
+<p align="center">
+  <img src="https://img.shields.io/badge/merged_PRs-2_%2F_100-000000?style=for-the-badge&labelColor=1a0b2e&color=B388FF"/>
+</p>
+
+<p align="center">Fixing real bugs in the tools developers use every day.</p>
+
+**Merged**
+
+| Project | PR | What it fixed |
+|---|---|---|
+| Starlight (Astro) | [withastro/starlight#4309](https://github.com/withastro/starlight/pull/4309) | Sidebar directories named like `Object.prototype` properties (`constructor`, `toString`) |
+| MDN Web Docs | [mdn/content#46321](https://github.com/mdn/content/pull/46321) | `referrerpolicy` / `noreferrer` docs now cover downloads |
+
+<details>
+<summary><b>In review</b></summary>
+<br/>
+
+| Project | PR | What it fixes |
+|---|---|---|
+| Biome | [biomejs/biome#12734](https://github.com/biomejs/biome/pull/12734) | CSS strings quoted with HTML entities (`&quot;`) in `style` attributes |
+| Biome | [biomejs/biome#12740](https://github.com/biomejs/biome/pull/12740) | `useValidAriaValues` false positive on Astro template literals |
+| oxc | [oxc-project/oxc#28405](https://github.com/oxc-project/oxc/pull/28405) | Lexer panic on files with more than 1024 diagnostics |
+| oxc | [oxc-project/oxc#28406](https://github.com/oxc-project/oxc/pull/28406) | Unterminated block comments recorded with the wrong kind |
+| PhotoCraft | [storytold/photocraft#10123](https://github.com/storytold/photocraft/pull/10123) | Levels histogram stops at 300 px |
+| PhotoCraft | [storytold/photocraft#10124](https://github.com/storytold/photocraft/pull/10124) | Histogram panel graph doesn't grow with the panel |
+
+</details>
+
+<br/>
+
 ## ◆ Toolkit
 
 <p align="center">
