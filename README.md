@@ -135,6 +135,7 @@ flowchart LR
 | oxc | [oxc-project/oxc#28406](https://github.com/oxc-project/oxc/pull/28406) | Unterminated block comments recorded with the wrong kind |
 | PhotoCraft | [storytold/photocraft#10123](https://github.com/storytold/photocraft/pull/10123) | Levels histogram stops at 300 px |
 | PhotoCraft | [storytold/photocraft#10124](https://github.com/storytold/photocraft/pull/10124) | Histogram panel graph doesn't grow with the panel |
+| PhotoCraft | [storytold/photocraft#10279](https://github.com/storytold/photocraft/pull/10279) | Curves graph doesn't fill the panel height |
 
 </details>
 
